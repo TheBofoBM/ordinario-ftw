@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>¿Qué opinas?</title>
+  <link rel="stylesheet" href="opinionStyle.css">
+</head>
+<body>
+
+  <header>¿Qué opinas?</header>
+
+  <form onsubmit="mostrarMensaje(event)">
+    <label for="nombre">Tu nombre:</label>
+    <input type="text" id="nombre" name="nombre" required>
+
+    <label for="comentario">Tu opinión:</label>
+    <textarea id="comentario" name="comentario" required></textarea>
+
+    <input type="submit" value="Enviar opinión">
+  </form>
+
+  <a href="index.html">← Volver al inicio</a>
+
+  <script>
+    function mostrarMensaje(event) {
+      event.preventDefault();
+      const nombre = document.getElementById("nombre").value;
+      const comentario = document.getElementById("comentario").value;
+
+      alert(`Gracias por tu comentario, ${nombre}!\n\n"${comentario}"`);
+      event.target.reset();
+    }
+  </script>
+
+</body>
+</html>

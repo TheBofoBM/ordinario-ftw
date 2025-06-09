@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background-color: black;
+    font-family: 'Bebas Neue', cursive;
+}
+
+video {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+a {
+    display: inline-block;
+    text-align: center;
+    border-radius: 15px;
+    border: 2px solid #FF2F28;
+    color: #e50914;
+    margin-top: 15px;
+    text-decoration: none;
+    padding: 5px 25px;
+}
+
+a:hover {
+    background-color: #e50914;
+    color: #FFFFFF;
+}

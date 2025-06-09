@@ -1,0 +1,99 @@
+<peliculas>
+  <pelicula id="1">
+    <titulo>Iron Man 3</titulo>
+    <descripcion>Iron Man 3 es una película de superhéroes basada en el personaje de Marvel Comics Iron Man. Es la tercera entrega de la trilogía de Iron Man y sigue las aventuras de Tony Stark mientras enfrenta a un nuevo enemigo, el Mandarín.</descripcion>
+  </pelicula>
+  <pelicula id="2">
+    <titulo>Thor: Love and Thunder</titulo>
+    <descripcion>Thor: Love and Thunder es una película de superhéroes basada en el personaje de Marvel Comics Thor. Es la cuarta entrega de la serie de películas de Thor y sigue las aventuras de Thor mientras se enfrenta a nuevos desafíos y enemigos.</descripcion>
+  </pelicula>
+  <pelicula id="3">
+    <titulo>Thor: Ragnarok</titulo>
+    <descripcion>Thor: Ragnarok es una película de superhéroes basada en el personaje de Marvel Comics Thor. Es la tercera entrega de la serie de películas de Thor y sigue las aventuras de Thor mientras se enfrenta a nuevos desafíos y enemigos.</descripcion>
+  </pelicula>
+  <pelicula id="4">
+    <titulo>Resident Evil: Welcome to Raccoon City</titulo>
+    <descripcion>Resident Evil: Welcome to Raccoon City es una película de terror y acción basada en la popular serie de videojuegos Resident Evil. La historia sigue a un grupo de sobrevivientes que luchan por escapar de la ciudad infestada de zombis.</descripcion>
+  </pelicula>
+  <pelicula id="5">
+    <titulo>Vieja guardia</titulo>
+    <descripcion>Vieja guardia es una película de acción y fantasía que sigue a un grupo de guerreros inmortales que han protegido a la humanidad durante siglos. Cuando un nuevo enemigo amenaza su existencia, deben unirse para luchar y proteger a aquellos que no pueden defenderse.</descripcion>
+  </pelicula>
+  <pelicula id="6">
+    <titulo>Spectral</titulo>
+    <descripcion>Spectral es una película de ciencia ficción y acción que sigue a un grupo de soldados de élite que se enfrentan a una amenaza sobrenatural en una ciudad en guerra. A medida que luchan por sobrevivir, descubren secretos oscuros sobre la tecnología que utilizan y deben encontrar una manera de detener a sus enemigos antes de que sea demasiado tarde.</descripcion>
+  </pelicula>
+  <pelicula id="7">
+    <titulo>300: El origen de un imperio</titulo>
+    <descripcion>300: El origen de un imperio es una película de acción y guerra que sirve como precuela y secuela de la película 300. La historia sigue la batalla de Salamina y el enfrentamiento entre los griegos y los persas.</descripcion>
+  </pelicula>
+  <pelicula id="8">
+    <titulo>Project Power</titulo>
+    <descripcion>Project Power es una película de ciencia ficción y acción que sigue a un exsoldado, un policía y un distribuidor de drogas mientras investigan una nueva droga que otorga habilidades sobrehumanas temporales a quienes la consumen. Juntos, deben desentrañar el misterio detrás de la droga y enfrentarse a sus creadores.</descripcion>
+  </pelicula>
+  <pelicula id="9">
+    <titulo>Venom: Let There Be Carnage</titulo>
+    <descripcion>Venom: Let There Be Carnage es una película de superhéroes basada en el personaje de Marvel Comics Venom. La historia sigue a Eddie Brock mientras se enfrenta a un nuevo enemigo, Carnage, un simbiótico aún más poderoso y peligroso.</descripcion>
+  </pelicula>
+  <pelicula id="10">
+    <titulo>Venom</titulo>
+    <descripcion>Venom es una película de superhéroes basada en el personaje de Marvel Comics Venom. La historia sigue a Eddie Brock mientras se enfrenta a un nuevo enemigo, Carnage, un simbiótico aún más poderoso y peligroso.</descripcion>
+  </pelicula>
+  <pelicula id="11">
+    <titulo>Spider-Man: No Way Home</titulo>
+    <descripcion>Spider-Man: No Way Home es una película de superhéroes basada en el personaje de Marvel Comics Spider-Man. La historia sigue a Peter Parker mientras enfrenta las consecuencias de su identidad secreta revelada y se une a otros héroes para combatir amenazas multiversales.</descripcion>
+  </pelicula>
+  <pelicula id="12">
+    <titulo>Avengers: Infinity War</titulo>
+    <descripcion>Avengers: Infinity War es una película de superhéroes basada en el equipo de Marvel Comics conocido como los Vengadores. La historia sigue a los Vengadores mientras se enfrentan a Thanos, un poderoso villano que busca reunir las Gemas del Infinito y destruir la mitad del universo.</descripcion>
+  </pelicula>
+  <pelicula id="13">
+    <titulo>Avengers: Endgame</titulo>
+    <descripcion>Avengers: Endgame es una película de superhéroes que sirve como conclusión de la saga del Infinito en el Universo Cinematográfico de Marvel. La historia sigue a los Vengadores mientras intentan revertir los efectos del chasquido de Thanos y restaurar el orden en el universo.</descripcion>
+  </pelicula>
+  <pelicula id="14">
+    <titulo>MAD MAX: FURY ROAD</titulo>
+    <descripcion>MAD MAX: FURY ROAD es una película de acción y ciencia ficción que sigue a Max Rockatansky en un mundo post-apocalíptico. La historia se centra en la lucha por la supervivencia en un desierto inhóspito y la búsqueda de redención de sus personajes.</descripcion>
+  </pelicula>
+  <pelicula id="15">
+    <titulo>DURO DE MATAR 4.0</titulo>
+    <descripcion>DURO DE MATAR 4.0 es una película de acción en la que John McClane debe detener a un grupo de terroristas cibernéticos que amenazan con colapsar la infraestructura digital de Estados Unidos. McClane se asocia con un joven hacker para enfrentar esta nueva amenaza tecnológica y salvar al país.</descripcion>
+  </pelicula>
+  <pelicula id="16">
+    <titulo>DURO DE MATAR: Un buen día para morir</titulo>
+    <descripcion>DURO DE MATAR: Un buen día para morir es una película de acción que sigue a John McClane mientras viaja a Rusia para ayudar a su hijo, quien se ha visto envuelto en problemas con la ley. Juntos, deben enfrentarse a una conspiración criminal y luchar por sobrevivir.</descripcion>
+  </pelicula>
+  <pelicula id="17">
+    <titulo>LIFE</titulo>
+    <descripcion>LIFE es una película de ciencia ficción y terror que sigue a un equipo de astronautas en la Estación Espacial Internacional mientras descubren una forma de vida extraterrestre. A medida que la criatura comienza a crecer y volverse más inteligente, los astronautas deben luchar por sobrevivir y evitar que la criatura llegue a la Tierra.</descripcion>
+  </pelicula>
+  <pelicula id="18">
+    <titulo>MORBIUS: Una historia de vampiros</titulo>
+    <descripcion>MORBIUS: Una historia de vampiros es una película de superhéroes basada en el personaje de Marvel Comics Morbius, el Hombre Viviente. La historia sigue a Michael Morbius, un bioquímico que, en su búsqueda por curar su enfermedad, se convierte en un vampiro viviente y debe luchar contra su nueva naturaleza.</descripcion>
+  </pelicula>
+  <pelicula id="19">
+    <titulo>WandaVision</titulo>
+    <descripcion>WandaVision es una serie de televisión de superhéroes que sigue a Wanda Maximoff y Vision mientras intentan vivir una vida suburbana ideal en la ciudad de Westview. Sin embargo, pronto descubren que no todo es lo que parece y deben enfrentar realidades ocultas.</descripcion>
+  </pelicula>
+  <pelicula id="20">
+    <titulo>BATMAN</titulo>
+    <descripcion>BATMAN es una película de superhéroes basada en el personaje de DC Comics Batman. La historia sigue a Bruce Wayne mientras lucha contra el crimen en Gotham City y enfrenta a villanos icónicos como el Joker y el Pingüino.</descripcion>
+  </pelicula>
+  <pelicula id="21">
+    <titulo>BOHEMIAN RHAPSODY</titulo>
+    <descripcion>BOHEMIAN RHAPSODY es una película biográfica que sigue la vida de Freddie Mercury, el icónico cantante de la banda Queen. La historia abarca su ascenso a la fama, su vida personal y su lucha con la identidad y la enfermedad.</descripcion>
+  </pelicula>
+  <pelicula id="22">
+    <titulo>STAR WARS: Rogue One</titulo>
+    <descripcion>STAR WARS: Rogue One es una película de ciencia ficción y aventura que forma parte del universo de Star Wars. La historia sigue a un grupo de rebeldes que se unen para robar los planos de la Estrella de la Muerte, la arma definitiva del Imperio Galáctico.</descripcion>
+  </pelicula>
+  <pelicula id="23">
+    <titulo>Black Widow</titulo>
+    <descripcion>Black Widow es una película de superhéroes centrada en el personaje de Marvel Comics Natasha Romanoff, también conocida como Black Widow. La historia explora su pasado y los eventos que la llevaron a convertirse en una heroína.</descripcion>
+  </pelicula>
+  <pelicula id="24">
+    <titulo>BLACK ADAM</titulo>
+    <descripcion>BLACK ADAM es una película de superhéroes basada en el personaje de DC Comics. La historia sigue a Teth-Adam, un antiguo egipcio que obtiene poderes divinos y se convierte en un anti-héroe que lucha contra la injusticia.</descripcion>
+  </pelicula>
+
+</peliculas>

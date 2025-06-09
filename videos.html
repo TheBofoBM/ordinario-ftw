@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Video oculto</title>
+  <link rel="stylesheet" href="videos.css">
+</head>
+<body>
+    <div id="contenedor-video" class="oculto">
+        <video width="640" height="360" controls autoplay>
+        <source src="imagenes/VenomTrailer.mp4" type="video/mp4">
+        Tu navegador no soporta la reproducción de video.
+        </video>
+    </div>
+
+    <script>
+        const contenedor = document.getElementById("contenedor-video");
+
+        contenedor.classList.toggle("oculto");
+    </script>
+
+</body>
+</html>
